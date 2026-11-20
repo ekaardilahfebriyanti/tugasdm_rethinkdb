@@ -1,0 +1,618 @@
+[
+    {
+        "id_jadwal_nikah": 3,
+        "nomor_akta": "AK/2026/10/0054",
+        "suami": "Ottilie Macrow",
+        "istri": "Sherrie Drache",
+        "tanggal_pengeluaran": "2026-10-25",
+        "file": "akta_nikah_AK_2026_10_0054.pdf"
+    },
+    {
+        "id_jadwal_nikah": 4,
+        "nomor_akta": "AK/2026/10/0055",
+        "suami": "Anitra Comben",
+        "istri": "Gypsy Lakenden",
+        "tanggal_pengeluaran": "2026-10-29",
+        "file": "akta_nikah_AK_2026_10_0055.pdf"
+    },
+    {
+        "id_jadwal_nikah": 6,
+        "nomor_akta": "AK/2026/10/0057",
+        "suami": "Tedmund Klaves",
+        "istri": "Mead Wickling",
+        "tanggal_pengeluaran": "2026-10-23",
+        "file": "akta_nikah_AK_2026_10_0057.pdf"
+    },
+    {
+        "id_jadwal_nikah": 7,
+        "nomor_akta": "AK/2026/10/0058",
+        "suami": "Wilhelm Boyack",
+        "istri": "Wade Sarch",
+        "tanggal_pengeluaran": "2026-10-21",
+        "file": "akta_nikah_AK_2026_10_0058.pdf"
+    },
+    {
+        "id_jadwal_nikah": 25,
+        "nomor_akta": "AK/2026/10/0066",
+        "suami": "Dale Pillington",
+        "istri": "Alexa Leitch",
+        "tanggal_pengeluaran": "2026-10-20",
+        "file": "akta_nikah_AK_2026_10_0066.pdf"
+    },
+    {
+        "id_jadwal_nikah": 26,
+        "nomor_akta": "AK/2026/10/0067",
+        "suami": "Fayre Skipworth",
+        "istri": "Dell Priddis",
+        "tanggal_pengeluaran": "2026-10-25",
+        "file": "akta_nikah_AK_2026_10_0067.pdf"
+    },
+    {
+        "id_jadwal_nikah": 30,
+        "nomor_akta": "AK/2026/10/0068",
+        "suami": "Persis Pfleger",
+        "istri": "Sal Rollings",
+        "tanggal_pengeluaran": "2026-10-20",
+        "file": "akta_nikah_AK_2026_10_0068.pdf"
+    },
+    {
+        "id_jadwal_nikah": 31,
+        "nomor_akta": "AK/2026/10/0069",
+        "suami": "Gertie Tindall",
+        "istri": "Elliott Pressland",
+        "tanggal_pengeluaran": "2026-10-29",
+        "file": "akta_nikah_AK_2026_10_0069.pdf"
+    },
+    {
+        "id_jadwal_nikah": 33,
+        "nomor_akta": "AK/2026/10/0070",
+        "suami": "Gloria Halwood",
+        "istri": "Rowe Tease",
+        "tanggal_pengeluaran": "2026-10-24",
+        "file": "akta_nikah_AK_2026_10_0070.pdf"
+    },
+    {
+        "id_jadwal_nikah": 35,
+        "nomor_akta": "AK/2026/10/0071",
+        "suami": "Rebe Benettolo",
+        "istri": "Susannah Lening",
+        "tanggal_pengeluaran": "2026-10-27",
+        "file": "akta_nikah_AK_2026_10_0071.pdf"
+    },
+    {
+        "id_jadwal_nikah": 36,
+        "nomor_akta": "AK/2026/10/0072",
+        "suami": "Antonina Briars",
+        "istri": "Reggie Hakking",
+        "tanggal_pengeluaran": "2026-10-25",
+        "file": "akta_nikah_AK_2026_10_0072.pdf"
+    },
+    {
+        "id_jadwal_nikah": 39,
+        "nomor_akta": "AK/2026/10/0074",
+        "suami": "Dew Horney",
+        "istri": "Carson Southway",
+        "tanggal_pengeluaran": "2026-10-25",
+        "file": "akta_nikah_AK_2026_10_0074.pdf"
+    },
+    {
+        "id_jadwal_nikah": 41,
+        "nomor_akta": "AK/2026/10/0075",
+        "suami": "Urbanus Carrick",
+        "istri": "Merrill Nickels",
+        "tanggal_pengeluaran": "2026-10-29",
+        "file": "akta_nikah_AK_2026_10_0075.pdf"
+    },
+    {
+        "id_jadwal_nikah": 43,
+        "nomor_akta": "AK/2026/10/0076",
+        "suami": "Berri Grim",
+        "istri": "Darwin Coyish",
+        "tanggal_pengeluaran": "2026-10-25",
+        "file": "akta_nikah_AK_2026_10_0076.pdf"
+    },
+    {
+        "id_jadwal_nikah": 27,
+        "nomor_akta": "AK/2026/10/0013",
+        "suami": "Kristine Wey",
+        "istri": "Constantine Torritti",
+        "tanggal_pengeluaran": "2026-10-21",
+        "file": "akta_nikah_AK_2026_10_0013.pdf"
+    },
+    {
+        "id_jadwal_nikah": 11,
+        "nomor_akta": "AK/2026/10/0060",
+        "suami": "Cassy Jackways",
+        "istri": "Amory Sawart",
+        "tanggal_pengeluaran": "2026-10-23",
+        "file": "akta_nikah_AK_2026_10_0060.pdf"
+    },
+    {
+        "id_jadwal_nikah": 20,
+        "nomor_akta": "AK/2026/10/0064",
+        "suami": "Blancha Frenzel;",
+        "istri": "Glad Heistermann",
+        "tanggal_pengeluaran": "2026-10-21",
+        "file": "akta_nikah_AK_2026_10_0064.pdf"
+    },
+    {
+        "id_jadwal_nikah": 29,
+        "nomor_akta": "AK/2026/10/0015",
+        "suami": "Fran Ivic",
+        "istri": "Lacee Nadin",
+        "tanggal_pengeluaran": "2026-10-20",
+        "file": "akta_nikah_AK_2026_10_0015.pdf"
+    },
+    {
+        "id_jadwal_nikah": 32,
+        "nomor_akta": "AK/2026/10/0016",
+        "suami": "Sheilakathryn Paolini",
+        "istri": "Elmira Magson",
+        "tanggal_pengeluaran": "2026-10-21",
+        "file": "akta_nikah_AK_2026_10_0016.pdf"
+    },
+    {
+        "id_jadwal_nikah": 46,
+        "nomor_akta": "AK/2026/10/0077",
+        "suami": "Kinnie McHan",
+        "istri": "Laryssa Evitts",
+        "tanggal_pengeluaran": "2026-10-27",
+        "file": "akta_nikah_AK_2026_10_0077.pdf"
+    },
+    {
+        "id_jadwal_nikah": 8,
+        "nomor_akta": "AK/2026/10/0003",
+        "suami": "Kayley Beames",
+        "istri": "Tremayne Hurley",
+        "tanggal_pengeluaran": "2026-10-21",
+        "file": "akta_nikah_AK_2026_10_0003.pdf"
+    },
+    {
+        "id_jadwal_nikah": 9,
+        "nomor_akta": "AK/2026/10/0004",
+        "suami": "Maressa Hallahan",
+        "istri": "Mallory Stitson",
+        "tanggal_pengeluaran": "2026-10-26",
+        "file": "akta_nikah_AK_2026_10_0004.pdf"
+    },
+    {
+        "id_jadwal_nikah": 12,
+        "nomor_akta": "AK/2026/10/0005",
+        "suami": "Andie Jopp",
+        "istri": "Anabel Deverson",
+        "tanggal_pengeluaran": "2026-10-29",
+        "file": "akta_nikah_AK_2026_10_0005.pdf"
+    },
+    {
+        "id_jadwal_nikah": 13,
+        "nomor_akta": "AK/2026/10/0006",
+        "suami": "Laird Jefferson",
+        "istri": "Darla Brombell",
+        "tanggal_pengeluaran": "2026-10-27",
+        "file": "akta_nikah_AK_2026_10_0006.pdf"
+    },
+    {
+        "id_jadwal_nikah": 15,
+        "nomor_akta": "AK/2026/10/0007",
+        "suami": "Rosanna Wilshire",
+        "istri": "Burnard Andrejevic",
+        "tanggal_pengeluaran": "2026-10-25",
+        "file": "akta_nikah_AK_2026_10_0007.pdf"
+    },
+    {
+        "id_jadwal_nikah": 16,
+        "nomor_akta": "AK/2026/10/0008",
+        "suami": "Roxine Broadey",
+        "istri": "Mandel Bryning",
+        "tanggal_pengeluaran": "2026-10-27",
+        "file": "akta_nikah_AK_2026_10_0008.pdf"
+    },
+    {
+        "id_jadwal_nikah": 17,
+        "nomor_akta": "AK/2026/10/0009",
+        "suami": "Knox Felkin",
+        "istri": "Berkly Jessard",
+        "tanggal_pengeluaran": "2026-10-20",
+        "file": "akta_nikah_AK_2026_10_0009.pdf"
+    },
+    {
+        "id_jadwal_nikah": 22,
+        "nomor_akta": "AK/2026/10/0011",
+        "suami": "Abdul Rehorek",
+        "istri": "Duncan Fonquernie",
+        "tanggal_pengeluaran": "2026-10-24",
+        "file": "akta_nikah_AK_2026_10_0011.pdf"
+    },
+    {
+        "id_jadwal_nikah": 45,
+        "nomor_akta": "AK/2026/10/0022",
+        "suami": "Rodolphe Perotti",
+        "istri": "Andres Vanderplas",
+        "tanggal_pengeluaran": "2026-10-22",
+        "file": "akta_nikah_AK_2026_10_0022.pdf"
+    },
+    {
+        "id_jadwal_nikah": 49,
+        "nomor_akta": "AK/2026/10/0025",
+        "suami": "Katrinka Basham",
+        "istri": "Kaleb Annetts",
+        "tanggal_pengeluaran": "2026-10-25",
+        "file": "akta_nikah_AK_2026_10_0025.pdf"
+    },
+    {
+        "id_jadwal_nikah": 51,
+        "nomor_akta": "AK/2026/10/0027",
+        "suami": "Arabel Arno",
+        "istri": "Lawton Newart",
+        "tanggal_pengeluaran": "2026-10-21",
+        "file": "akta_nikah_AK_2026_10_0027.pdf"
+    },
+    {
+        "id_jadwal_nikah": 56,
+        "nomor_akta": "AK/2026/10/0030",
+        "suami": "Emile Labbet",
+        "istri": "Gunner Wash",
+        "tanggal_pengeluaran": "2026-10-20",
+        "file": "akta_nikah_AK_2026_10_0030.pdf"
+    },
+    {
+        "id_jadwal_nikah": 59,
+        "nomor_akta": "AK/2026/10/0031",
+        "suami": "Deni Glavin",
+        "istri": "Ira Pettman",
+        "tanggal_pengeluaran": "2026-10-29",
+        "file": "akta_nikah_AK_2026_10_0031.pdf"
+    },
+    {
+        "id_jadwal_nikah": 54,
+        "nomor_akta": "AK/2026/10/0078",
+        "suami": "Hilde Torre",
+        "istri": "Bertine McClarence",
+        "tanggal_pengeluaran": "2026-10-21",
+        "file": "akta_nikah_AK_2026_10_0078.pdf"
+    },
+    {
+        "id_jadwal_nikah": 69,
+        "nomor_akta": "AK/2026/10/0038",
+        "suami": "Jesse Pamment",
+        "istri": "Maurise Theaker",
+        "tanggal_pengeluaran": "2026-10-23",
+        "file": "akta_nikah_AK_2026_10_0038.pdf"
+    },
+    {
+        "id_jadwal_nikah": 73,
+        "nomor_akta": "AK/2026/10/0040",
+        "suami": "Miran Sweatland",
+        "istri": "Aksel Bullock",
+        "tanggal_pengeluaran": "2026-10-26",
+        "file": "akta_nikah_AK_2026_10_0040.pdf"
+    },
+    {
+        "id_jadwal_nikah": 76,
+        "nomor_akta": "AK/2026/10/0041",
+        "suami": "Rodd Kleen",
+        "istri": "Anabelle Rallings",
+        "tanggal_pengeluaran": "2026-10-29",
+        "file": "akta_nikah_AK_2026_10_0041.pdf"
+    },
+    {
+        "id_jadwal_nikah": 77,
+        "nomor_akta": "AK/2026/10/0042",
+        "suami": "Hyatt Kewzick",
+        "istri": "Rozanne Cupitt",
+        "tanggal_pengeluaran": "2026-10-25",
+        "file": "akta_nikah_AK_2026_10_0042.pdf"
+    },
+    {
+        "id_jadwal_nikah": 79,
+        "nomor_akta": "AK/2026/10/0043",
+        "suami": "Astra Jeanequin",
+        "istri": "Claudio McTurk",
+        "tanggal_pengeluaran": "2026-10-26",
+        "file": "akta_nikah_AK_2026_10_0043.pdf"
+    },
+    {
+        "id_jadwal_nikah": 86,
+        "nomor_akta": "AK/2026/10/0047",
+        "suami": "Jerrine Tweddell",
+        "istri": "Vincenz Mantrup",
+        "tanggal_pengeluaran": "2026-10-24",
+        "file": "akta_nikah_AK_2026_10_0047.pdf"
+    },
+    {
+        "id_jadwal_nikah": 87,
+        "nomor_akta": "AK/2026/10/0048",
+        "suami": "Esdras Treswell",
+        "istri": "Agosto Wilcox",
+        "tanggal_pengeluaran": "2026-10-22",
+        "file": "akta_nikah_AK_2026_10_0048.pdf"
+    },
+    {
+        "id_jadwal_nikah": 52,
+        "nomor_akta": "AK/2026/10/0028",
+        "suami": "Micheil Bleeze",
+        "istri": "Christal Tinsley",
+        "tanggal_pengeluaran": "2026-10-21",
+        "file": "akta_nikah_AK_2026_10_0028.pdf"
+    },
+    {
+        "id_jadwal_nikah": 37,
+        "nomor_akta": "AK/2026/10/0018",
+        "suami": "Trey Hembry",
+        "istri": "Welsh Godbald",
+        "tanggal_pengeluaran": "2026-10-26",
+        "file": "akta_nikah_AK_2026_10_0018.pdf"
+    },
+    {
+        "id_jadwal_nikah": 40,
+        "nomor_akta": "AK/2026/10/0019",
+        "suami": "Winni Botterman",
+        "istri": "Lynde Neilands",
+        "tanggal_pengeluaran": "2026-10-29",
+        "file": "akta_nikah_AK_2026_10_0019.pdf"
+    },
+    {
+        "id_jadwal_nikah": 44,
+        "nomor_akta": "AK/2026/10/0021",
+        "suami": "Cristen Ludye",
+        "istri": "Luisa Keary",
+        "tanggal_pengeluaran": "2026-10-27",
+        "file": "akta_nikah_AK_2026_10_0021.pdf"
+    },
+    {
+        "id_jadwal_nikah": 60,
+        "nomor_akta": "AK/2026/10/0032",
+        "suami": "Cully Harflete",
+        "istri": "Florence MacPherson",
+        "tanggal_pengeluaran": "2026-10-27",
+        "file": "akta_nikah_AK_2026_10_0032.pdf"
+    },
+    {
+        "id_jadwal_nikah": 66,
+        "nomor_akta": "AK/2026/10/0036",
+        "suami": "Gavan Hancorn",
+        "istri": "May Vergo",
+        "tanggal_pengeluaran": "2026-10-29",
+        "file": "akta_nikah_AK_2026_10_0036.pdf"
+    },
+    {
+        "id_jadwal_nikah": 67,
+        "nomor_akta": "AK/2026/10/0037",
+        "suami": "Abbie Morais",
+        "istri": "Fowler Jerrems",
+        "tanggal_pengeluaran": "2026-10-26",
+        "file": "akta_nikah_AK_2026_10_0037.pdf"
+    },
+    {
+        "id_jadwal_nikah": 55,
+        "nomor_akta": "AK/2026/10/0079",
+        "suami": "Anthia Heskins",
+        "istri": "Thia Beaument",
+        "tanggal_pengeluaran": "2026-10-28",
+        "file": "akta_nikah_AK_2026_10_0079.pdf"
+    },
+    {
+        "id_jadwal_nikah": 65,
+        "nomor_akta": "AK/2026/10/0083",
+        "suami": "Sam Emburey",
+        "istri": "Karie Tandy",
+        "tanggal_pengeluaran": "2026-10-28",
+        "file": "akta_nikah_AK_2026_10_0083.pdf"
+    },
+    {
+        "id_jadwal_nikah": 68,
+        "nomor_akta": "AK/2026/10/0084",
+        "suami": "Scotty Aubri",
+        "istri": "Kathryne Baddam",
+        "tanggal_pengeluaran": "2026-10-29",
+        "file": "akta_nikah_AK_2026_10_0084.pdf"
+    },
+    {
+        "id_jadwal_nikah": 70,
+        "nomor_akta": "AK/2026/10/0085",
+        "suami": "Mariele Parkes",
+        "istri": "Dannie Sucre",
+        "tanggal_pengeluaran": "2026-10-28",
+        "file": "akta_nikah_AK_2026_10_0085.pdf"
+    },
+    {
+        "id_jadwal_nikah": 74,
+        "nomor_akta": "AK/2026/10/0087",
+        "suami": "Issy Ainger",
+        "istri": "Tadeas Drakeford",
+        "tanggal_pengeluaran": "2026-10-27",
+        "file": "akta_nikah_AK_2026_10_0087.pdf"
+    },
+    {
+        "id_jadwal_nikah": 75,
+        "nomor_akta": "AK/2026/10/0088",
+        "suami": "Gilberto Malter",
+        "istri": "Gipsy Freckleton",
+        "tanggal_pengeluaran": "2026-10-22",
+        "file": "akta_nikah_AK_2026_10_0088.pdf"
+    },
+    {
+        "id_jadwal_nikah": 78,
+        "nomor_akta": "AK/2026/10/0089",
+        "suami": "Scarface Minney",
+        "istri": "Jorry Leates",
+        "tanggal_pengeluaran": "2026-10-26",
+        "file": "akta_nikah_AK_2026_10_0089.pdf"
+    },
+    {
+        "id_jadwal_nikah": 81,
+        "nomor_akta": "AK/2026/10/0090",
+        "suami": "Amye Gorger",
+        "istri": "Pollyanna Iddiens",
+        "tanggal_pengeluaran": "2026-10-29",
+        "file": "akta_nikah_AK_2026_10_0090.pdf"
+    },
+    {
+        "id_jadwal_nikah": 83,
+        "nomor_akta": "AK/2026/10/0091",
+        "suami": "Terese Banasiak",
+        "istri": "Idette Dalglish",
+        "tanggal_pengeluaran": "2026-10-27",
+        "file": "akta_nikah_AK_2026_10_0091.pdf"
+    },
+    {
+        "id_jadwal_nikah": 90,
+        "nomor_akta": "AK/2026/10/0094",
+        "suami": "Byrle Driuzzi",
+        "istri": "Kristo Ciubutaro",
+        "tanggal_pengeluaran": "2026-10-25",
+        "file": "akta_nikah_AK_2026_10_0094.pdf"
+    },
+    {
+        "id_jadwal_nikah": 91,
+        "nomor_akta": "AK/2026/10/0095",
+        "suami": "Welby McGhie",
+        "istri": "Horatius McGray",
+        "tanggal_pengeluaran": "2026-10-26",
+        "file": "akta_nikah_AK_2026_10_0095.pdf"
+    },
+    {
+        "id_jadwal_nikah": 94,
+        "nomor_akta": "AK/2026/10/0097",
+        "suami": "Del De Coursey",
+        "istri": "Peri Bryceson",
+        "tanggal_pengeluaran": "2026-10-27",
+        "file": "akta_nikah_AK_2026_10_0097.pdf"
+    },
+    {
+        "id_jadwal_nikah": 99,
+        "nomor_akta": "AK/2026/10/0099",
+        "suami": "Brigida Lantuff",
+        "istri": "Erina Morales",
+        "tanggal_pengeluaran": "2026-10-26",
+        "file": "akta_nikah_AK_2026_10_0099.pdf"
+    },
+    {
+        "id_jadwal_nikah": 100,
+        "nomor_akta": "AK/2026/10/0100",
+        "suami": "Lezley Bonnick",
+        "istri": "Delmore Teasey",
+        "tanggal_pengeluaran": "2026-10-21",
+        "file": "akta_nikah_AK_2026_10_0100.pdf"
+    },
+    {
+        "id_jadwal_nikah": 28,
+        "nomor_akta": "AK/2026/10/0014",
+        "suami": "Charo Minelli",
+        "istri": "Valene Lempke",
+        "tanggal_pengeluaran": "2026-10-26",
+        "file": "akta_nikah_AK_2026_10_0014.pdf"
+    },
+    {
+        "id_jadwal_nikah": 14,
+        "nomor_akta": "AK/2026/10/0061",
+        "suami": "Hilary De Anesy",
+        "istri": "Arlen Yuryshev",
+        "tanggal_pengeluaran": "2026-10-24",
+        "file": "akta_nikah_AK_2026_10_0061.pdf"
+    },
+    {
+        "id_jadwal_nikah": 1,
+        "nomor_akta": "AK/2026/10/0001",
+        "suami": "Kendal Wilding",
+        "istri": "Beverie Iscowitz",
+        "tanggal_pengeluaran": "2026-10-23",
+        "file": "akta_nikah_AK_2026_10_0001.pdf"
+    },
+    {
+        "id_jadwal_nikah": 2,
+        "nomor_akta": "AK/2026/10/0002",
+        "suami": "Cordelia Pelzer",
+        "istri": "Sosanna Sanz",
+        "tanggal_pengeluaran": "2026-10-24",
+        "file": "akta_nikah_AK_2026_10_0002.pdf"
+    },
+    {
+        "id_jadwal_nikah": 38,
+        "nomor_akta": "AK/2026/10/0073",
+        "suami": "Therese Plevin",
+        "istri": "Torey Argont",
+        "tanggal_pengeluaran": "2026-10-24",
+        "file": "akta_nikah_AK_2026_10_0073.pdf"
+    },
+    {
+        "id_jadwal_nikah": 50,
+        "nomor_akta": "AK/2026/10/0026",
+        "suami": "Noell Barok",
+        "istri": "Court Murr",
+        "tanggal_pengeluaran": "2026-10-24",
+        "file": "akta_nikah_AK_2026_10_0026.pdf"
+    },
+    {
+        "id_jadwal_nikah": 61,
+        "nomor_akta": "AK/2026/10/0033",
+        "suami": "Edyth Stockau",
+        "istri": "Philippe Canning",
+        "tanggal_pengeluaran": "2026-10-23",
+        "file": "akta_nikah_AK_2026_10_0033.pdf"
+    },
+    {
+        "id_jadwal_nikah": 62,
+        "nomor_akta": "AK/2026/10/0034",
+        "suami": "Raviv Merrington",
+        "istri": "Roseanne Beard",
+        "tanggal_pengeluaran": "2026-10-24",
+        "file": "akta_nikah_AK_2026_10_0034.pdf"
+    },
+    {
+        "id_jadwal_nikah": 63,
+        "nomor_akta": "AK/2026/10/0035",
+        "suami": "Stacee Vlasyev",
+        "istri": "Charleen Haseldine",
+        "tanggal_pengeluaran": "2026-10-25",
+        "file": "akta_nikah_AK_2026_10_0035.pdf"
+    },
+    {
+        "id_jadwal_nikah": 85,
+        "nomor_akta": "AK/2026/10/0092",
+        "suami": "Leonore Carle",
+        "istri": "Karola Sherringham",
+        "tanggal_pengeluaran": "2026-10-23",
+        "file": "akta_nikah_AK_2026_10_0092.pdf"
+    },
+    {
+        "id_jadwal_nikah": 10,
+        "nomor_akta": "AK/2026/10/0059",
+        "suami": "Anastasia Madden",
+        "istri": "Anderea Kingsford",
+        "tanggal_pengeluaran": "2026-10-29",
+        "file": "akta_nikah_AK_2026_10_0059.pdf"
+    },
+    {
+        "id_jadwal_nikah": 34,
+        "nomor_akta": "AK/2026/10/0017",
+        "suami": "Patricia Dafforne",
+        "istri": "Chiquita Howlings",
+        "tanggal_pengeluaran": "2026-10-29",
+        "file": "akta_nikah_AK_2026_10_0017.pdf"
+    },
+    {
+        "id_jadwal_nikah": 98,
+        "nomor_akta": "AK/2026/10/0098",
+        "suami": "Kingsly Seczyk",
+        "istri": "Cacilie Seleway",
+        "tanggal_pengeluaran": "2026-10-24",
+        "file": "akta_nikah_AK_2026_10_0098.pdf"
+    },
+    {
+        "id_jadwal_nikah": 93,
+        "nomor_akta": "AK/2026/10/0050",
+        "suami": "Eloise Parker",
+        "istri": "Saidee Craddock",
+        "tanggal_pengeluaran": "2026-10-28",
+        "file": "akta_nikah_AK_2026_10_0050.pdf"
+    },
+    {
+        "id_jadwal_nikah": 97,
+        "nomor_akta": "AK/2026/10/0053",
+        "suami": "Bartholemy Fowgies",
+        "istri": "Joseito Andrzej",
+        "tanggal_pengeluaran": "2026-10-23",
+        "file": "akta_nikah_AK_2026_10_0053.pdf"
+    }
+]

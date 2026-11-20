@@ -1,0 +1,902 @@
+[
+    {
+        "id_jadwal_bimbingan": 101,
+        "tanggal_bimbingan": "2026-10-13",
+        "waktu_bimbingan": "13:00:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "menunggu",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 7,
+        "tanggal_bimbingan": "2026-10-14",
+        "waktu_bimbingan": "09:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 25,
+        "tanggal_bimbingan": "2026-10-13",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "197401132026102013",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 33,
+        "tanggal_bimbingan": "2026-10-17",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 35,
+        "tanggal_bimbingan": "2026-10-20",
+        "waktu_bimbingan": "09:00:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 73,
+        "tanggal_bimbingan": "2026-10-19",
+        "waktu_bimbingan": "11:00:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 76,
+        "tanggal_bimbingan": "2026-10-22",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 77,
+        "tanggal_bimbingan": "2026-10-18",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 80,
+        "tanggal_bimbingan": "2026-10-23",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 43,
+        "tanggal_bimbingan": "2026-10-18",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 27,
+        "tanggal_bimbingan": "2026-10-14",
+        "waktu_bimbingan": "09:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 20,
+        "tanggal_bimbingan": "2026-10-11",
+        "waktu_bimbingan": "11:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 29,
+        "tanggal_bimbingan": "2026-10-10",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 32,
+        "tanggal_bimbingan": "2026-10-11",
+        "waktu_bimbingan": "11:00:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 46,
+        "tanggal_bimbingan": "2026-10-20",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 8,
+        "tanggal_bimbingan": "2026-10-11",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 9,
+        "tanggal_bimbingan": "2026-10-19",
+        "waktu_bimbingan": "11:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 12,
+        "tanggal_bimbingan": "2026-10-19",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 13,
+        "tanggal_bimbingan": "2026-10-17",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 15,
+        "tanggal_bimbingan": "2026-10-15",
+        "waktu_bimbingan": "11:00:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 16,
+        "tanggal_bimbingan": "2026-10-17",
+        "waktu_bimbingan": "09:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 17,
+        "tanggal_bimbingan": "2026-10-10",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 22,
+        "tanggal_bimbingan": "2026-10-14",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "197401132026102013",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 45,
+        "tanggal_bimbingan": "2026-10-12",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "197401132026102013",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 49,
+        "tanggal_bimbingan": "2026-10-15",
+        "waktu_bimbingan": "11:00:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 51,
+        "tanggal_bimbingan": "2026-10-11",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 56,
+        "tanggal_bimbingan": "2026-10-13",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 59,
+        "tanggal_bimbingan": "2026-10-22",
+        "waktu_bimbingan": "11:00:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 37,
+        "tanggal_bimbingan": "2026-10-16",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 40,
+        "tanggal_bimbingan": "2026-10-19",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 44,
+        "tanggal_bimbingan": "2026-10-17",
+        "waktu_bimbingan": "09:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 54,
+        "tanggal_bimbingan": "2026-10-11",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "197401132026102013",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 60,
+        "tanggal_bimbingan": "2026-10-17",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 66,
+        "tanggal_bimbingan": "2026-10-22",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "197401132026102013",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 82,
+        "tanggal_bimbingan": "2026-10-20",
+        "waktu_bimbingan": "09:00:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 86,
+        "tanggal_bimbingan": "2026-10-17",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 87,
+        "tanggal_bimbingan": "2026-10-12",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 88,
+        "tanggal_bimbingan": "2026-10-20",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 93,
+        "tanggal_bimbingan": "2026-10-18",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "197401132026102013",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 95,
+        "tanggal_bimbingan": "2026-10-21",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 52,
+        "tanggal_bimbingan": "2026-10-11",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 53,
+        "tanggal_bimbingan": "2026-10-13",
+        "waktu_bimbingan": "09:00:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "batal",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 55,
+        "tanggal_bimbingan": "2026-10-21",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 57,
+        "tanggal_bimbingan": "2026-10-23",
+        "waktu_bimbingan": "11:00:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 58,
+        "tanggal_bimbingan": "2026-10-20",
+        "waktu_bimbingan": "11:00:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 64,
+        "tanggal_bimbingan": "2026-10-20",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 65,
+        "tanggal_bimbingan": "2026-10-18",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 68,
+        "tanggal_bimbingan": "2026-10-19",
+        "waktu_bimbingan": "11:00:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "197401132026102013",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 70,
+        "tanggal_bimbingan": "2026-10-21",
+        "waktu_bimbingan": "11:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 74,
+        "tanggal_bimbingan": "2026-10-17",
+        "waktu_bimbingan": "11:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 75,
+        "tanggal_bimbingan": "2026-10-15",
+        "waktu_bimbingan": "09:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 78,
+        "tanggal_bimbingan": "2026-10-19",
+        "waktu_bimbingan": "11:00:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 81,
+        "tanggal_bimbingan": "2026-10-19",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 83,
+        "tanggal_bimbingan": "2026-10-17",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "197401132026102013",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 89,
+        "tanggal_bimbingan": "2026-10-20",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 90,
+        "tanggal_bimbingan": "2026-10-15",
+        "waktu_bimbingan": "11:00:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 91,
+        "tanggal_bimbingan": "2026-10-16",
+        "waktu_bimbingan": "09:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 42,
+        "tanggal_bimbingan": "2026-10-30",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "menunggu",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 18,
+        "tanggal_bimbingan": "2026-10-30",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "menunggu",
+        "nip_staff_admin": "197401132026102013",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 3,
+        "tanggal_bimbingan": "2026-10-15",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 4,
+        "tanggal_bimbingan": "2026-10-19",
+        "waktu_bimbingan": "09:00:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 5,
+        "tanggal_bimbingan": "2026-10-20",
+        "waktu_bimbingan": "09:00:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 6,
+        "tanggal_bimbingan": "2026-10-13",
+        "waktu_bimbingan": "09:00:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 26,
+        "tanggal_bimbingan": "2026-10-15",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 30,
+        "tanggal_bimbingan": "2026-10-10",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 31,
+        "tanggal_bimbingan": "2026-10-19",
+        "waktu_bimbingan": "11:00:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 36,
+        "tanggal_bimbingan": "2026-10-15",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 19,
+        "tanggal_bimbingan": "2026-10-30",
+        "waktu_bimbingan": "11:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "menunggu",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 39,
+        "tanggal_bimbingan": "2026-10-15",
+        "waktu_bimbingan": "09:00:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 41,
+        "tanggal_bimbingan": "2026-10-19",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 23,
+        "tanggal_bimbingan": "2026-10-20",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 67,
+        "tanggal_bimbingan": "2026-10-16",
+        "waktu_bimbingan": "11:00:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 69,
+        "tanggal_bimbingan": "2026-10-13",
+        "waktu_bimbingan": "11:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 71,
+        "tanggal_bimbingan": "2026-10-14",
+        "waktu_bimbingan": "09:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "batal",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 79,
+        "tanggal_bimbingan": "2026-10-16",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "197401132026102013",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 11,
+        "tanggal_bimbingan": "2026-10-13",
+        "waktu_bimbingan": "09:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 94,
+        "tanggal_bimbingan": "2026-10-17",
+        "waktu_bimbingan": "11:00:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 99,
+        "tanggal_bimbingan": "2026-10-16",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 100,
+        "tanggal_bimbingan": "2026-10-11",
+        "waktu_bimbingan": "09:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 21,
+        "tanggal_bimbingan": "2026-10-21",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 28,
+        "tanggal_bimbingan": "2026-10-16",
+        "waktu_bimbingan": "09:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 14,
+        "tanggal_bimbingan": "2026-10-14",
+        "waktu_bimbingan": "09:00:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 1,
+        "tanggal_bimbingan": "2026-10-13",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 2,
+        "tanggal_bimbingan": "2026-10-14",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 38,
+        "tanggal_bimbingan": "2026-10-14",
+        "waktu_bimbingan": "11:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 50,
+        "tanggal_bimbingan": "2026-10-14",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 61,
+        "tanggal_bimbingan": "2026-10-13",
+        "waktu_bimbingan": "09:00:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 62,
+        "tanggal_bimbingan": "2026-10-14",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 63,
+        "tanggal_bimbingan": "2026-10-15",
+        "waktu_bimbingan": "09:00:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "197401132026102013",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 85,
+        "tanggal_bimbingan": "2026-10-13",
+        "waktu_bimbingan": "11:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 10,
+        "tanggal_bimbingan": "2026-10-22",
+        "waktu_bimbingan": "09:00:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 47,
+        "tanggal_bimbingan": "2026-10-23",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 34,
+        "tanggal_bimbingan": "2026-10-22",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 97,
+        "tanggal_bimbingan": "2026-10-13",
+        "waktu_bimbingan": "09:00:00",
+        "ruangan": "Aula KUA",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "197401132026102013",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 98,
+        "tanggal_bimbingan": "2026-10-14",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 96,
+        "tanggal_bimbingan": "2026-10-24",
+        "waktu_bimbingan": "09:00:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 48,
+        "tanggal_bimbingan": "2026-10-30",
+        "waktu_bimbingan": "11:00:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "menunggu",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 72,
+        "tanggal_bimbingan": "2026-10-30",
+        "waktu_bimbingan": "10:00:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "menunggu",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 84,
+        "tanggal_bimbingan": "2026-10-30",
+        "waktu_bimbingan": "13:30:00",
+        "ruangan": "Ruang Bimbingan 1",
+        "status_bimbingan": "menunggu",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penyuluh": "198811082026101004"
+    },
+    {
+        "id_jadwal_bimbingan": 102,
+        "tanggal_bimbingan": "2026-10-14",
+        "waktu_bimbingan": "13:00:00",
+        "ruangan": "Ruang Bimbingan 2",
+        "status_bimbingan": "menunggu",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penyuluh": "198811082026101004"
+    }
+]

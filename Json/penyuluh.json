@@ -1,0 +1,46 @@
+[
+    {
+        "nip": "198310052026101002",
+        "pegawai": {
+            "spesialisasi": "Bimbingan Perkawinan",
+            "username": "user_3273070510830156",
+            "kepala_kua": false,
+            "no_telepon": "081234560101",
+            "jenis_pegawai": "penyuluh"
+        },
+        "kelompok_binaan": "Calon Pengantin"
+    },
+    {
+        "nip": "198901062026101003",
+        "pegawai": {
+            "spesialisasi": "Keluarga Sakinah",
+            "username": "user_3273070510830156",
+            "kepala_kua": false,
+            "no_telepon": "081234560101",
+            "jenis_pegawai": "penyuluh"
+        },
+        "kelompok_binaan": "Keluarga Muda"
+    },
+    {
+        "nip": "198811082026101004",
+        "pegawai": {
+            "spesialisasi": "Penyuluhan Agama Islam",
+            "username": "user_3273070811880048",
+            "kepala_kua": false,
+            "no_telepon": "081234560103",
+            "jenis_pegawai": "penyuluh"
+        },
+        "kelompok_binaan": "Majelis Taklim"
+    },
+    {
+        "nip": "198710202026101005",
+        "pegawai": {
+            "spesialisasi": "Konseling Keluarga",
+            "username": "user_3273072010870144",
+            "kepala_kua": false,
+            "no_telepon": "081234560104",
+            "jenis_pegawai": "penyuluh"
+        },
+        "kelompok_binaan": "Remaja dan Keluarga"
+    }
+]

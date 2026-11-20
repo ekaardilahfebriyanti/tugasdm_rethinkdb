@@ -1,0 +1,709 @@
+[
+    {
+        "id_pendaftaran": 20,
+        "nip_staff_admin": "198803162026102015",
+        "tanggal_pemeriksaan": "2026-09-27",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_20_198803162026102015.pdf"
+    },
+    {
+        "id_pendaftaran": 29,
+        "nip_staff_admin": "199603142026102014",
+        "tanggal_pemeriksaan": "2026-09-28",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_29_199603142026102014.pdf"
+    },
+    {
+        "id_pendaftaran": 32,
+        "nip_staff_admin": "199903032026102010",
+        "tanggal_pemeriksaan": "2026-10-02",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_32_199903032026102010.pdf"
+    },
+    {
+        "id_pendaftaran": 34,
+        "nip_staff_admin": "199603142026102014",
+        "tanggal_pemeriksaan": "2026-10-04",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_34_199603142026102014.pdf"
+    },
+    {
+        "id_pendaftaran": 47,
+        "nip_staff_admin": "199709122026102012",
+        "tanggal_pemeriksaan": "2026-10-04",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_47_199709122026102012.pdf"
+    },
+    {
+        "id_pendaftaran": 48,
+        "nip_staff_admin": "199903032026102010",
+        "tanggal_pemeriksaan": "2026-10-06",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_48_199903032026102010.pdf"
+    },
+    {
+        "id_pendaftaran": 46,
+        "nip_staff_admin": "199603142026102014",
+        "tanggal_pemeriksaan": "2026-10-01",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_46_199603142026102014.pdf"
+    },
+    {
+        "id_pendaftaran": 1,
+        "nip_staff_admin": "197401132026102013",
+        "tanggal_pemeriksaan": "2026-09-20",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_1_197401132026102013.pdf"
+    },
+    {
+        "id_pendaftaran": 2,
+        "nip_staff_admin": "197401132026102013",
+        "tanggal_pemeriksaan": "2026-09-26",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_2_197401132026102013.pdf"
+    },
+    {
+        "id_pendaftaran": 8,
+        "nip_staff_admin": "199903032026102010",
+        "tanggal_pemeriksaan": "2026-10-02",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_8_199903032026102010.pdf"
+    },
+    {
+        "id_pendaftaran": 9,
+        "nip_staff_admin": "197401132026102013",
+        "tanggal_pemeriksaan": "2026-10-03",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_9_197401132026102013.pdf"
+    },
+    {
+        "id_pendaftaran": 72,
+        "nip_staff_admin": "198803162026102015",
+        "tanggal_pemeriksaan": "2026-10-01",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_72_198803162026102015.pdf"
+    },
+    {
+        "id_pendaftaran": 74,
+        "nip_staff_admin": "197110062026102011",
+        "tanggal_pemeriksaan": "2026-09-22",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_74_197110062026102011.pdf"
+    },
+    {
+        "id_pendaftaran": 75,
+        "nip_staff_admin": "199903032026102010",
+        "tanggal_pemeriksaan": "2026-09-24",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_75_199903032026102010.pdf"
+    },
+    {
+        "id_pendaftaran": 78,
+        "nip_staff_admin": "197110062026102011",
+        "tanggal_pemeriksaan": "2026-09-26",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_78_197110062026102011.pdf"
+    },
+    {
+        "id_pendaftaran": 81,
+        "nip_staff_admin": "197401132026102013",
+        "tanggal_pemeriksaan": "2026-09-30",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_81_197401132026102013.pdf"
+    },
+    {
+        "id_pendaftaran": 83,
+        "nip_staff_admin": "197110062026102011",
+        "tanggal_pemeriksaan": "2026-10-03",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_83_197110062026102011.pdf"
+    },
+    {
+        "id_pendaftaran": 85,
+        "nip_staff_admin": "199903032026102010",
+        "tanggal_pemeriksaan": "2026-09-21",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_85_199903032026102010.pdf"
+    },
+    {
+        "id_pendaftaran": 89,
+        "nip_staff_admin": "199903032026102010",
+        "tanggal_pemeriksaan": "2026-09-28",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_89_199903032026102010.pdf"
+    },
+    {
+        "id_pendaftaran": 90,
+        "nip_staff_admin": "199709122026102012",
+        "tanggal_pemeriksaan": "2026-09-29",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_90_199709122026102012.pdf"
+    },
+    {
+        "id_pendaftaran": 91,
+        "nip_staff_admin": "197110062026102011",
+        "tanggal_pemeriksaan": "2026-09-28",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_91_197110062026102011.pdf"
+    },
+    {
+        "id_pendaftaran": 94,
+        "nip_staff_admin": "197110062026102011",
+        "tanggal_pemeriksaan": "2026-09-29",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_94_197110062026102011.pdf"
+    },
+    {
+        "id_pendaftaran": 98,
+        "nip_staff_admin": "199903032026102010",
+        "tanggal_pemeriksaan": "2026-09-26",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_98_199903032026102010.pdf"
+    },
+    {
+        "id_pendaftaran": 99,
+        "nip_staff_admin": "199603142026102014",
+        "tanggal_pemeriksaan": "2026-09-23",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_99_199603142026102014.pdf"
+    },
+    {
+        "id_pendaftaran": 96,
+        "nip_staff_admin": "199903032026102010",
+        "tanggal_pemeriksaan": "2026-10-03",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_96_199903032026102010.pdf"
+    },
+    {
+        "id_pendaftaran": 97,
+        "nip_staff_admin": "198803162026102015",
+        "tanggal_pemeriksaan": "2026-09-20",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_97_198803162026102015.pdf"
+    },
+    {
+        "id_pendaftaran": 100,
+        "nip_staff_admin": "199603142026102014",
+        "tanggal_pemeriksaan": "2026-09-28",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_100_199603142026102014.pdf"
+    },
+    {
+        "id_pendaftaran": 12,
+        "nip_staff_admin": "197110062026102011",
+        "tanggal_pemeriksaan": "2026-10-04",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_12_197110062026102011.pdf"
+    },
+    {
+        "id_pendaftaran": 13,
+        "nip_staff_admin": "197110062026102011",
+        "tanggal_pemeriksaan": "2026-09-23",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_13_197110062026102011.pdf"
+    },
+    {
+        "id_pendaftaran": 15,
+        "nip_staff_admin": "199603142026102014",
+        "tanggal_pemeriksaan": "2026-09-26",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_15_199603142026102014.pdf"
+    },
+    {
+        "id_pendaftaran": 16,
+        "nip_staff_admin": "199603142026102014",
+        "tanggal_pemeriksaan": "2026-09-24",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_16_199603142026102014.pdf"
+    },
+    {
+        "id_pendaftaran": 17,
+        "nip_staff_admin": "198803162026102015",
+        "tanggal_pemeriksaan": "2026-09-28",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_17_198803162026102015.pdf"
+    },
+    {
+        "id_pendaftaran": 21,
+        "nip_staff_admin": "197110062026102011",
+        "tanggal_pemeriksaan": "2026-10-01",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_21_197110062026102011.pdf"
+    },
+    {
+        "id_pendaftaran": 22,
+        "nip_staff_admin": "197401132026102013",
+        "tanggal_pemeriksaan": "2026-09-30",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_22_197401132026102013.pdf"
+    },
+    {
+        "id_pendaftaran": 45,
+        "nip_staff_admin": "199903032026102010",
+        "tanggal_pemeriksaan": "2026-10-01",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_45_199903032026102010.pdf"
+    },
+    {
+        "id_pendaftaran": 49,
+        "nip_staff_admin": "199903032026102010",
+        "tanggal_pemeriksaan": "2026-09-21",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_49_199903032026102010.pdf"
+    },
+    {
+        "id_pendaftaran": 50,
+        "nip_staff_admin": "198803162026102015",
+        "tanggal_pemeriksaan": "2026-09-22",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_50_198803162026102015.pdf"
+    },
+    {
+        "id_pendaftaran": 51,
+        "nip_staff_admin": "199603142026102014",
+        "tanggal_pemeriksaan": "2026-09-25",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_51_199603142026102014.pdf"
+    },
+    {
+        "id_pendaftaran": 101,
+        "nip_staff_admin": "198803162026102015",
+        "tanggal_pemeriksaan": "2026-09-25",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_101_198803162026102015.pdf"
+    },
+    {
+        "id_pendaftaran": 3,
+        "nip_staff_admin": "199603142026102014",
+        "tanggal_pemeriksaan": "2026-09-22",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_3_199603142026102014.pdf"
+    },
+    {
+        "id_pendaftaran": 4,
+        "nip_staff_admin": "197110062026102011",
+        "tanggal_pemeriksaan": "2026-09-28",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_4_197110062026102011.pdf"
+    },
+    {
+        "id_pendaftaran": 5,
+        "nip_staff_admin": "197110062026102011",
+        "tanggal_pemeriksaan": "2026-09-29",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_5_197110062026102011.pdf"
+    },
+    {
+        "id_pendaftaran": 6,
+        "nip_staff_admin": "197401132026102013",
+        "tanggal_pemeriksaan": "2026-09-30",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_6_197401132026102013.pdf"
+    },
+    {
+        "id_pendaftaran": 7,
+        "nip_staff_admin": "199709122026102012",
+        "tanggal_pemeriksaan": "2026-09-29",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_7_199709122026102012.pdf"
+    },
+    {
+        "id_pendaftaran": 10,
+        "nip_staff_admin": "198803162026102015",
+        "tanggal_pemeriksaan": "2026-09-30",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_10_198803162026102015.pdf"
+    },
+    {
+        "id_pendaftaran": 25,
+        "nip_staff_admin": "197110062026102011",
+        "tanggal_pemeriksaan": "2026-09-21",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_25_197110062026102011.pdf"
+    },
+    {
+        "id_pendaftaran": 26,
+        "nip_staff_admin": "199603142026102014",
+        "tanggal_pemeriksaan": "2026-09-22",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_26_199603142026102014.pdf"
+    },
+    {
+        "id_pendaftaran": 30,
+        "nip_staff_admin": "199903032026102010",
+        "tanggal_pemeriksaan": "2026-09-29",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_30_199903032026102010.pdf"
+    },
+    {
+        "id_pendaftaran": 31,
+        "nip_staff_admin": "197401132026102013",
+        "tanggal_pemeriksaan": "2026-09-26",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_31_197401132026102013.pdf"
+    },
+    {
+        "id_pendaftaran": 33,
+        "nip_staff_admin": "197110062026102011",
+        "tanggal_pemeriksaan": "2026-09-28",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_33_197110062026102011.pdf"
+    },
+    {
+        "id_pendaftaran": 35,
+        "nip_staff_admin": "198803162026102015",
+        "tanggal_pemeriksaan": "2026-10-04",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_35_198803162026102015.pdf"
+    },
+    {
+        "id_pendaftaran": 36,
+        "nip_staff_admin": "199903032026102010",
+        "tanggal_pemeriksaan": "2026-10-05",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_36_199903032026102010.pdf"
+    },
+    {
+        "id_pendaftaran": 38,
+        "nip_staff_admin": "197401132026102013",
+        "tanggal_pemeriksaan": "2026-09-23",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_38_197401132026102013.pdf"
+    },
+    {
+        "id_pendaftaran": 39,
+        "nip_staff_admin": "197110062026102011",
+        "tanggal_pemeriksaan": "2026-09-24",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_39_197110062026102011.pdf"
+    },
+    {
+        "id_pendaftaran": 41,
+        "nip_staff_admin": "197401132026102013",
+        "tanggal_pemeriksaan": "2026-09-25",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_41_197401132026102013.pdf"
+    },
+    {
+        "id_pendaftaran": 43,
+        "nip_staff_admin": "199903032026102010",
+        "tanggal_pemeriksaan": "2026-09-28",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_43_199903032026102010.pdf"
+    },
+    {
+        "id_pendaftaran": 23,
+        "nip_staff_admin": "199903032026102010",
+        "tanggal_pemeriksaan": "2026-09-30",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_23_199903032026102010.pdf"
+    },
+    {
+        "id_pendaftaran": 27,
+        "nip_staff_admin": "197110062026102011",
+        "tanggal_pemeriksaan": "2026-09-27",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_27_197110062026102011.pdf"
+    },
+    {
+        "id_pendaftaran": 28,
+        "nip_staff_admin": "199903032026102010",
+        "tanggal_pemeriksaan": "2026-09-25",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_28_199903032026102010.pdf"
+    },
+    {
+        "id_pendaftaran": 11,
+        "nip_staff_admin": "198803162026102015",
+        "tanggal_pemeriksaan": "2026-10-01",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_11_198803162026102015.pdf"
+    },
+    {
+        "id_pendaftaran": 14,
+        "nip_staff_admin": "199603142026102014",
+        "tanggal_pemeriksaan": "2026-09-21",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_14_199603142026102014.pdf"
+    },
+    {
+        "id_pendaftaran": 18,
+        "nip_staff_admin": "199709122026102012",
+        "tanggal_pemeriksaan": "2026-09-30",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_18_199709122026102012.pdf"
+    },
+    {
+        "id_pendaftaran": 19,
+        "nip_staff_admin": "199903032026102010",
+        "tanggal_pemeriksaan": "2026-09-30",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_19_199903032026102010.pdf"
+    },
+    {
+        "id_pendaftaran": 24,
+        "nip_staff_admin": "199603142026102014",
+        "tanggal_pemeriksaan": "2026-10-03",
+        "status_pemeriksaan": "ditolak",
+        "n8_pemeriksaan_nikah": "N8_24_199603142026102014.pdf"
+    },
+    {
+        "id_pendaftaran": 92,
+        "nip_staff_admin": "198803162026102015",
+        "tanggal_pemeriksaan": "2026-10-02",
+        "status_pemeriksaan": "ditolak",
+        "n8_pemeriksaan_nikah": "N8_92_198803162026102015.pdf"
+    },
+    {
+        "id_pendaftaran": 56,
+        "nip_staff_admin": "199603142026102014",
+        "tanggal_pemeriksaan": "2026-10-01",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_56_199603142026102014.pdf"
+    },
+    {
+        "id_pendaftaran": 59,
+        "nip_staff_admin": "199709122026102012",
+        "tanggal_pemeriksaan": "2026-10-02",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_59_199709122026102012.pdf"
+    },
+    {
+        "id_pendaftaran": 37,
+        "nip_staff_admin": "199603142026102014",
+        "tanggal_pemeriksaan": "2026-09-21",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_37_199603142026102014.pdf"
+    },
+    {
+        "id_pendaftaran": 40,
+        "nip_staff_admin": "199603142026102014",
+        "tanggal_pemeriksaan": "2026-09-28",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_40_199603142026102014.pdf"
+    },
+    {
+        "id_pendaftaran": 42,
+        "nip_staff_admin": "197110062026102011",
+        "tanggal_pemeriksaan": "2026-09-25",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_42_197110062026102011.pdf"
+    },
+    {
+        "id_pendaftaran": 44,
+        "nip_staff_admin": "197401132026102013",
+        "tanggal_pemeriksaan": "2026-09-30",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_44_197401132026102013.pdf"
+    },
+    {
+        "id_pendaftaran": 54,
+        "nip_staff_admin": "199603142026102014",
+        "tanggal_pemeriksaan": "2026-09-29",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_54_199603142026102014.pdf"
+    },
+    {
+        "id_pendaftaran": 60,
+        "nip_staff_admin": "197110062026102011",
+        "tanggal_pemeriksaan": "2026-10-01",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_60_197110062026102011.pdf"
+    },
+    {
+        "id_pendaftaran": 61,
+        "nip_staff_admin": "197110062026102011",
+        "tanggal_pemeriksaan": "2026-09-20",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_61_197110062026102011.pdf"
+    },
+    {
+        "id_pendaftaran": 62,
+        "nip_staff_admin": "199903032026102010",
+        "tanggal_pemeriksaan": "2026-09-26",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_62_199903032026102010.pdf"
+    },
+    {
+        "id_pendaftaran": 63,
+        "nip_staff_admin": "197110062026102011",
+        "tanggal_pemeriksaan": "2026-09-26",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_63_197110062026102011.pdf"
+    },
+    {
+        "id_pendaftaran": 66,
+        "nip_staff_admin": "197110062026102011",
+        "tanggal_pemeriksaan": "2026-09-25",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_66_197110062026102011.pdf"
+    },
+    {
+        "id_pendaftaran": 67,
+        "nip_staff_admin": "197401132026102013",
+        "tanggal_pemeriksaan": "2026-09-28",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_67_197401132026102013.pdf"
+    },
+    {
+        "id_pendaftaran": 69,
+        "nip_staff_admin": "197110062026102011",
+        "tanggal_pemeriksaan": "2026-10-02",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_69_197110062026102011.pdf"
+    },
+    {
+        "id_pendaftaran": 71,
+        "nip_staff_admin": "197401132026102013",
+        "tanggal_pemeriksaan": "2026-10-05",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_71_197401132026102013.pdf"
+    },
+    {
+        "id_pendaftaran": 73,
+        "nip_staff_admin": "197110062026102011",
+        "tanggal_pemeriksaan": "2026-09-22",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_73_197110062026102011.pdf"
+    },
+    {
+        "id_pendaftaran": 76,
+        "nip_staff_admin": "197110062026102011",
+        "tanggal_pemeriksaan": "2026-09-25",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_76_197110062026102011.pdf"
+    },
+    {
+        "id_pendaftaran": 77,
+        "nip_staff_admin": "199603142026102014",
+        "tanggal_pemeriksaan": "2026-09-27",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_77_199603142026102014.pdf"
+    },
+    {
+        "id_pendaftaran": 79,
+        "nip_staff_admin": "199903032026102010",
+        "tanggal_pemeriksaan": "2026-10-01",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_79_199903032026102010.pdf"
+    },
+    {
+        "id_pendaftaran": 80,
+        "nip_staff_admin": "199903032026102010",
+        "tanggal_pemeriksaan": "2026-09-28",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_80_199903032026102010.pdf"
+    },
+    {
+        "id_pendaftaran": 82,
+        "nip_staff_admin": "197401132026102013",
+        "tanggal_pemeriksaan": "2026-10-03",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_82_197401132026102013.pdf"
+    },
+    {
+        "id_pendaftaran": 84,
+        "nip_staff_admin": "197401132026102013",
+        "tanggal_pemeriksaan": "2026-10-06",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_84_197401132026102013.pdf"
+    },
+    {
+        "id_pendaftaran": 86,
+        "nip_staff_admin": "199603142026102014",
+        "tanggal_pemeriksaan": "2026-09-21",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_86_199603142026102014.pdf"
+    },
+    {
+        "id_pendaftaran": 87,
+        "nip_staff_admin": "198803162026102015",
+        "tanggal_pemeriksaan": "2026-09-27",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_87_198803162026102015.pdf"
+    },
+    {
+        "id_pendaftaran": 88,
+        "nip_staff_admin": "197401132026102013",
+        "tanggal_pemeriksaan": "2026-09-23",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_88_197401132026102013.pdf"
+    },
+    {
+        "id_pendaftaran": 93,
+        "nip_staff_admin": "197401132026102013",
+        "tanggal_pemeriksaan": "2026-10-02",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_93_197401132026102013.pdf"
+    },
+    {
+        "id_pendaftaran": 95,
+        "nip_staff_admin": "198803162026102015",
+        "tanggal_pemeriksaan": "2026-10-01",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_95_198803162026102015.pdf"
+    },
+    {
+        "id_pendaftaran": 52,
+        "nip_staff_admin": "197401132026102013",
+        "tanggal_pemeriksaan": "2026-09-25",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_52_197401132026102013.pdf"
+    },
+    {
+        "id_pendaftaran": 53,
+        "nip_staff_admin": "199903032026102010",
+        "tanggal_pemeriksaan": "2026-09-25",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_53_199903032026102010.pdf"
+    },
+    {
+        "id_pendaftaran": 55,
+        "nip_staff_admin": "199603142026102014",
+        "tanggal_pemeriksaan": "2026-10-01",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_55_199603142026102014.pdf"
+    },
+    {
+        "id_pendaftaran": 57,
+        "nip_staff_admin": "197401132026102013",
+        "tanggal_pemeriksaan": "2026-10-01",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_57_197401132026102013.pdf"
+    },
+    {
+        "id_pendaftaran": 58,
+        "nip_staff_admin": "199903032026102010",
+        "tanggal_pemeriksaan": "2026-09-30",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_58_199903032026102010.pdf"
+    },
+    {
+        "id_pendaftaran": 54,
+        "nip_staff_admin": "197110062026102011",
+        "tanggal_pemeriksaan": "2026-09-26",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_64_197110062026102011.pdf"
+    },
+    {
+        "id_pendaftaran": 65,
+        "nip_staff_admin": "199709122026102012",
+        "tanggal_pemeriksaan": "2026-09-24",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_65_199709122026102012.pdf"
+    },
+    {
+        "id_pendaftaran": 68,
+        "nip_staff_admin": "199709122026102012",
+        "tanggal_pemeriksaan": "2026-09-29",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_68_199709122026102012.pdf"
+    },
+    {
+        "id_pendaftaran": 70,
+        "nip_staff_admin": "197110062026102011",
+        "tanggal_pemeriksaan": "2026-10-03",
+        "status_pemeriksaan": "diterima",
+        "n8_pemeriksaan_nikah": "N8_70_197110062026102011.pdf"
+    }
+]

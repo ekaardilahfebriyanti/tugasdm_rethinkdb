@@ -1,0 +1,62 @@
+[
+    {
+        "nip": "199903032026102010",
+        "pegawai": {
+            "username": "user_3273074303990062",
+            "kepala_kua": false,
+            "no_telepon": "081234560109",
+            "jenis_pegawai": "staff_administrasi"
+        },
+        "role": "Administrasi Pendaftaran Nikah"
+    },
+    {
+        "nip": "197110062026102011",
+        "pegawai": {
+            "username": "user_3273074610710120",
+            "kepala_kua": false,
+            "no_telepon": "081234560110",
+            "jenis_pegawai": "staff_administrasi"
+        },
+        "role": "Verifikasi Dokumen"
+    },
+    {
+        "nip": "199709122026102012",
+        "pegawai": {
+            "username": "user_3273075209970106",
+            "kepala_kua": false,
+            "no_telepon": "081234560111",
+            "jenis_pegawai": "staff_administrasi"
+        },
+        "role": "Pengelolaan Data dan Arsip"
+    },
+    {
+        "nip": "197401132026102013",
+        "pegawai": {
+            "username": "user_3273075301740096",
+            "kepala_kua": false,
+            "no_telepon": "081234560112",
+            "jenis_pegawai": "staff_administrasi"
+        },
+        "role": "Pelayanan Masyarakat"
+    },
+    {
+        "nip": "199603142026102014",
+        "pegawai": {
+            "username": "user_3273075403960125",
+            "kepala_kua": false,
+            "no_telepon": "081234560113",
+            "jenis_pegawai": "staff_administrasi"
+        },
+        "role": "Administrasi dan Pelaporan"
+    },
+    {
+        "nip": "198803162026102015",
+        "pegawai": {
+            "username": "user_3273075603880190",
+            "kepala_kua": false,
+            "no_telepon": "081234560114",
+            "jenis_pegawai": "staff_administrasi"
+        },
+        "role": "Pengelolaan Dokumen Nikah"
+    }
+]

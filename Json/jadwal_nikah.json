@@ -1,0 +1,982 @@
+[
+    {
+        "id_jadwal_nikah": 71,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-24",
+        "waktu_nikah": "10:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "batal",
+        "nip_staff_admin": "197401132026102013",
+        "nip_penghulu": "197112272026101008"
+    },
+    {
+        "id_jadwal_nikah": 53,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-23",
+        "waktu_nikah": "10:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "batal",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penghulu": "197011302026101009"
+    },
+    {
+        "id_jadwal_nikah": 21,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-31",
+        "waktu_nikah": "10:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "batal",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penghulu": "197011302026101009"
+    },
+    {
+        "id_jadwal_nikah": 3,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-25",
+        "waktu_nikah": "10:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 4,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-29",
+        "waktu_nikah": "10:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penghulu": "198611212026101006"
+    },
+    {
+        "id_jadwal_nikah": 5,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-30",
+        "waktu_nikah": "13:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "dijadwalkan",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penghulu": "197112272026101008"
+    },
+    {
+        "id_jadwal_nikah": 6,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-23",
+        "waktu_nikah": "09:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penghulu": "197011302026101009"
+    },
+    {
+        "id_jadwal_nikah": 7,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-21",
+        "waktu_nikah": "10:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penghulu": "197112272026101008"
+    },
+    {
+        "id_jadwal_nikah": 25,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-20",
+        "waktu_nikah": "13:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 26,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-25",
+        "waktu_nikah": "13:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penghulu": "197112272026101008"
+    },
+    {
+        "id_jadwal_nikah": 30,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-20",
+        "waktu_nikah": "11:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penghulu": "197112272026101008"
+    },
+    {
+        "id_jadwal_nikah": 31,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-29",
+        "waktu_nikah": "08:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 33,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-24",
+        "waktu_nikah": "10:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penghulu": "197112272026101008"
+    },
+    {
+        "id_jadwal_nikah": 35,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-27",
+        "waktu_nikah": "13:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "197401132026102013",
+        "nip_penghulu": "197112272026101008"
+    },
+    {
+        "id_jadwal_nikah": 36,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-25",
+        "waktu_nikah": "08:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 39,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-25",
+        "waktu_nikah": "13:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penghulu": "198102012026101001"
+    },
+    {
+        "id_jadwal_nikah": 41,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-29",
+        "waktu_nikah": "15:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penghulu": "198611212026101006"
+    },
+    {
+        "id_jadwal_nikah": 23,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-30",
+        "waktu_nikah": "15:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "dijadwalkan",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penghulu": "197112272026101008"
+    },
+    {
+        "id_jadwal_nikah": 67,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-26",
+        "waktu_nikah": "12:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 69,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-23",
+        "waktu_nikah": "11:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 73,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-26",
+        "waktu_nikah": "08:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penghulu": "198102012026101001"
+    },
+    {
+        "id_jadwal_nikah": 76,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-29",
+        "waktu_nikah": "15:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penghulu": "197011302026101009"
+    },
+    {
+        "id_jadwal_nikah": 77,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-25",
+        "waktu_nikah": "15:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penghulu": "198611212026101006"
+    },
+    {
+        "id_jadwal_nikah": 79,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-26",
+        "waktu_nikah": "11:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 80,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-30",
+        "waktu_nikah": "14:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "dijadwalkan",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 43,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-25",
+        "waktu_nikah": "12:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penghulu": "197112272026101008"
+    },
+    {
+        "id_jadwal_nikah": 27,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-21",
+        "waktu_nikah": "09:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 11,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-23",
+        "waktu_nikah": "15:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penghulu": "198611212026101006"
+    },
+    {
+        "id_jadwal_nikah": 18,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-31",
+        "waktu_nikah": "09:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "dijadwalkan",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penghulu": "197011302026101009"
+    },
+    {
+        "id_jadwal_nikah": 19,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-31",
+        "waktu_nikah": "13:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "dijadwalkan",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penghulu": "197112272026101008"
+    },
+    {
+        "id_jadwal_nikah": 20,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-21",
+        "waktu_nikah": "13:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 29,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-20",
+        "waktu_nikah": "13:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penghulu": "198102012026101001"
+    },
+    {
+        "id_jadwal_nikah": 32,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-21",
+        "waktu_nikah": "14:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 46,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-27",
+        "waktu_nikah": "11:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 8,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-21",
+        "waktu_nikah": "12:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penghulu": "198102012026101001"
+    },
+    {
+        "id_jadwal_nikah": 9,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-26",
+        "waktu_nikah": "12:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 12,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-29",
+        "waktu_nikah": "12:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penghulu": "198102012026101001"
+    },
+    {
+        "id_jadwal_nikah": 13,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-27",
+        "waktu_nikah": "08:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penghulu": "198102012026101001"
+    },
+    {
+        "id_jadwal_nikah": 15,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-25",
+        "waktu_nikah": "08:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 16,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-27",
+        "waktu_nikah": "14:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penghulu": "198611212026101006"
+    },
+    {
+        "id_jadwal_nikah": 17,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-20",
+        "waktu_nikah": "14:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "197401132026102013",
+        "nip_penghulu": "197011302026101009"
+    },
+    {
+        "id_jadwal_nikah": 22,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-24",
+        "waktu_nikah": "12:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 45,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-22",
+        "waktu_nikah": "14:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "197401132026102013",
+        "nip_penghulu": "197112272026101008"
+    },
+    {
+        "id_jadwal_nikah": 49,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-25",
+        "waktu_nikah": "10:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "197401132026102013",
+        "nip_penghulu": "197011302026101009"
+    },
+    {
+        "id_jadwal_nikah": 51,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-21",
+        "waktu_nikah": "15:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penghulu": "198611212026101006"
+    },
+    {
+        "id_jadwal_nikah": 56,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-20",
+        "waktu_nikah": "08:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "197401132026102013",
+        "nip_penghulu": "197112272026101008"
+    },
+    {
+        "id_jadwal_nikah": 59,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-29",
+        "waktu_nikah": "08:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 37,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-26",
+        "waktu_nikah": "14:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penghulu": "198102012026101001"
+    },
+    {
+        "id_jadwal_nikah": 40,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-29",
+        "waktu_nikah": "13:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penghulu": "197112272026101008"
+    },
+    {
+        "id_jadwal_nikah": 42,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-31",
+        "waktu_nikah": "10:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "dijadwalkan",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penghulu": "197011302026101009"
+    },
+    {
+        "id_jadwal_nikah": 44,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-27",
+        "waktu_nikah": "08:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "197401132026102013",
+        "nip_penghulu": "197112272026101008"
+    },
+    {
+        "id_jadwal_nikah": 54,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-21",
+        "waktu_nikah": "11:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penghulu": "197112272026101008"
+    },
+    {
+        "id_jadwal_nikah": 60,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-27",
+        "waktu_nikah": "13:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penghulu": "198102012026101001"
+    },
+    {
+        "id_jadwal_nikah": 66,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-29",
+        "waktu_nikah": "08:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penghulu": "198611212026101006"
+    },
+    {
+        "id_jadwal_nikah": 82,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-30",
+        "waktu_nikah": "09:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "dijadwalkan",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 86,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-24",
+        "waktu_nikah": "13:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penghulu": "197011302026101009"
+    },
+    {
+        "id_jadwal_nikah": 87,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-22",
+        "waktu_nikah": "11:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penghulu": "197112272026101008"
+    },
+    {
+        "id_jadwal_nikah": 88,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-30",
+        "waktu_nikah": "13:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "dijadwalkan",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penghulu": "197011302026101009"
+    },
+    {
+        "id_jadwal_nikah": 93,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-28",
+        "waktu_nikah": "14:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 95,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-31",
+        "waktu_nikah": "14:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "dijadwalkan",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penghulu": "198611212026101006"
+    },
+    {
+        "id_jadwal_nikah": 52,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-21",
+        "waktu_nikah": "10:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penghulu": "198102012026101001"
+    },
+    {
+        "id_jadwal_nikah": 55,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-28",
+        "waktu_nikah": "10:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penghulu": "197011302026101009"
+    },
+    {
+        "id_jadwal_nikah": 57,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-30",
+        "waktu_nikah": "14:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "dijadwalkan",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penghulu": "197112272026101008"
+    },
+    {
+        "id_jadwal_nikah": 58,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-30",
+        "waktu_nikah": "10:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "dijadwalkan",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penghulu": "198102012026101001"
+    },
+    {
+        "id_jadwal_nikah": 64,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-30",
+        "waktu_nikah": "12:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "dijadwalkan",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 65,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-28",
+        "waktu_nikah": "09:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penghulu": "198102012026101001"
+    },
+    {
+        "id_jadwal_nikah": 68,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-29",
+        "waktu_nikah": "15:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 70,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-28",
+        "waktu_nikah": "12:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 74,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-27",
+        "waktu_nikah": "15:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penghulu": "198102012026101001"
+    },
+    {
+        "id_jadwal_nikah": 75,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-22",
+        "waktu_nikah": "15:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penghulu": "197112272026101008"
+    },
+    {
+        "id_jadwal_nikah": 78,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-26",
+        "waktu_nikah": "15:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "197401132026102013",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 81,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-29",
+        "waktu_nikah": "15:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199709122026102012",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 83,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-27",
+        "waktu_nikah": "15:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penghulu": "198611212026101006"
+    },
+    {
+        "id_jadwal_nikah": 89,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-30",
+        "waktu_nikah": "11:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "dijadwalkan",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 90,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-25",
+        "waktu_nikah": "13:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penghulu": "197011302026101009"
+    },
+    {
+        "id_jadwal_nikah": 91,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-26",
+        "waktu_nikah": "12:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 94,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-27",
+        "waktu_nikah": "12:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penghulu": "197011302026101009"
+    },
+    {
+        "id_jadwal_nikah": 99,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-26",
+        "waktu_nikah": "11:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 100,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-21",
+        "waktu_nikah": "11:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penghulu": "197112272026101008"
+    },
+    {
+        "id_jadwal_nikah": 28,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-26",
+        "waktu_nikah": "15:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "197401132026102013",
+        "nip_penghulu": "198102012026101001"
+    },
+    {
+        "id_jadwal_nikah": 14,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-24",
+        "waktu_nikah": "14:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penghulu": "197112272026101008"
+    },
+    {
+        "id_jadwal_nikah": 1,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-23",
+        "waktu_nikah": "08:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 2,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-24",
+        "waktu_nikah": "09:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penghulu": "198611212026101006"
+    },
+    {
+        "id_jadwal_nikah": 38,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-24",
+        "waktu_nikah": "12:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penghulu": "198611212026101006"
+    },
+    {
+        "id_jadwal_nikah": 50,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-24",
+        "waktu_nikah": "10:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 61,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-23",
+        "waktu_nikah": "10:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "197401132026102013",
+        "nip_penghulu": "198611212026101006"
+    },
+    {
+        "id_jadwal_nikah": 62,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-24",
+        "waktu_nikah": "13:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penghulu": "198611212026101006"
+    },
+    {
+        "id_jadwal_nikah": 63,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-25",
+        "waktu_nikah": "15:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199903032026102010",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 85,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-23",
+        "waktu_nikah": "12:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penghulu": "197112272026101008"
+    },
+    {
+        "id_jadwal_nikah": 10,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-29",
+        "waktu_nikah": "11:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "197401132026102013",
+        "nip_penghulu": "198611212026101006"
+    },
+    {
+        "id_jadwal_nikah": 47,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-30",
+        "waktu_nikah": "13:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "dijadwalkan",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penghulu": "198509252026101007"
+    },
+    {
+        "id_jadwal_nikah": 48,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-31",
+        "waktu_nikah": "13:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "dijadwalkan",
+        "nip_staff_admin": "197401132026102013",
+        "nip_penghulu": "198102012026101001"
+    },
+    {
+        "id_jadwal_nikah": 34,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-29",
+        "waktu_nikah": "09:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "198803162026102015",
+        "nip_penghulu": "198102012026101001"
+    },
+    {
+        "id_jadwal_nikah": 72,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-31",
+        "waktu_nikah": "12:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "dijadwalkan",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penghulu": "198611212026101006"
+    },
+    {
+        "id_jadwal_nikah": 97,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-23",
+        "waktu_nikah": "09:00:00",
+        "lokasi": "Luar KUA (Kediaman Pengantin)",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penghulu": "197011302026101009"
+    },
+    {
+        "id_jadwal_nikah": 98,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-24",
+        "waktu_nikah": "13:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "selesai",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penghulu": "197112272026101008"
+    },
+    {
+        "id_jadwal_nikah": 84,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-31",
+        "waktu_nikah": "15:00:00",
+        "lokasi": "Masjid Agung",
+        "status_pernikahan": "dijadwalkan",
+        "nip_staff_admin": "197110062026102011",
+        "nip_penghulu": "197011302026101009"
+    },
+    {
+        "id_jadwal_nikah": 96,
+        "nama_wali": "Rodolphe Perotti",
+        "tanggal_nikah": "2026-10-31",
+        "waktu_nikah": "09:00:00",
+        "lokasi": "KUA Kecamatan",
+        "status_pernikahan": "dijadwalkan",
+        "nip_staff_admin": "199603142026102014",
+        "nip_penghulu": "197011302026101009"
+    }
+]

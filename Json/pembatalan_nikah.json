@@ -1,0 +1,42 @@
+[
+    {
+        "id_pembatalan": 2,
+        "alasan": "Terkendala secara ekonomi",
+        "status_pembatalan": "diterima",
+        "id_pendaftaran": 53,
+        "tanggal_pembatalan": "2026-10-05",
+        "nip_staff_admin": "199903032026102010"
+    },
+    {
+        "id_pembatalan": 3,
+        "alasan": "Belum sesuai",
+        "status_pembatalan": "ditolak",
+        "id_pendaftaran": 80,
+        "tanggal_pembatalan": "2026-10-08",
+        "nip_staff_admin": "199903032026102010"
+    },
+    {
+        "id_pembatalan": 4,
+        "alasan": "Kurang persetujuan orang tua",
+        "status_pembatalan": "diterima",
+        "id_pendaftaran": 71,
+        "tanggal_pembatalan": "2026-10-10",
+        "nip_staff_admin": "197401132026102013"
+    },
+    {
+        "id_pembatalan": 5,
+        "alasan": "Terkendala secara ekonomi",
+        "status_pembatalan": "diterima",
+        "id_pendaftaran": 21,
+        "tanggal_pembatalan": "2026-10-12",
+        "nip_staff_admin": "197110062026102011"
+    },
+    {
+        "id_pembatalan": 1,
+        "alasan": "Belum sesuai",
+        "status_pembatalan": "ditolak",
+        "id_pendaftaran": 60,
+        "tanggal_pembatalan": "2026-10-06",
+        "nip_staff_admin": "197110062026102011"
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "nip": "199903032026102010",
+        "username": "user_3273074303990062",
+        "kepala_kua": false,
+        "no_telepon": "081234560109",
+        "jenis_pegawai": "staff_administrasi"
+    },
+    {
+        "nip": "197110062026102011",
+        "username": "user_3273074610710120",
+        "kepala_kua": false,
+        "no_telepon": "081234560110",
+        "jenis_pegawai": "staff_administrasi"
+    },
+    {
+        "nip": "199709122026102012",
+        "username": "user_3273075209970106",
+        "kepala_kua": false,
+        "no_telepon": "081234560111",
+        "jenis_pegawai": "staff_administrasi"
+    },
+    {
+        "nip": "197401132026102013",
+        "username": "user_3273075301740096",
+        "kepala_kua": false,
+        "no_telepon": "081234560112",
+        "jenis_pegawai": "staff_administrasi"
+    },
+    {
+        "nip": "199603142026102014",
+        "username": "user_3273075403960125",
+        "kepala_kua": false,
+        "no_telepon": "081234560113",
+        "jenis_pegawai": "staff_administrasi"
+    },
+    {
+        "nip": "198803162026102015",
+        "username": "user_3273075603880190",
+        "kepala_kua": false,
+        "no_telepon": "081234560114",
+        "jenis_pegawai": "staff_administrasi"
+    },
+    {
+        "nip": "197112272026101008",
+        "username": "user_3273072712710179",
+        "kepala_kua": false,
+        "no_telepon": "081234560107",
+        "jenis_pegawai": "penghulu"
+    },
+    {
+        "nip": "198611212026101006",
+        "username": "user_3273072111860157",
+        "kepala_kua": false,
+        "no_telepon": "081234560105",
+        "jenis_pegawai": "penghulu"
+    },
+    {
+        "nip": "198509252026101007",
+        "username": "user_3273072509850090",
+        "kepala_kua": false,
+        "no_telepon": "081234560106",
+        "jenis_pegawai": "penghulu"
+    },
+    {
+        "nip": "197011302026101009",
+        "username": "user_3273073011700019",
+        "kepala_kua": false,
+        "no_telepon": "081234560108",
+        "jenis_pegawai": "penghulu"
+    },
+    {
+        "nip": "198102012026101001",
+        "username": "user_3273070102810020",
+        "kepala_kua": true,
+        "no_telepon": "081234560115",
+        "jenis_pegawai": "penghulu"
+    },
+    {
+        "nip": "198310052026101002",
+        "username": "user_3273070510830156",
+        "kepala_kua": false,
+        "no_telepon": "081234560101",
+        "jenis_pegawai": "penyuluh"
+    },
+    {
+        "nip": "198901062026101003",
+        "username": "user_3273070601890152",
+        "kepala_kua": false,
+        "no_telepon": "081234560102",
+        "jenis_pegawai": "penyuluh"
+    },
+    {
+        "nip": "198811082026101004",
+        "username": "user_3273070811880048",
+        "kepala_kua": false,
+        "no_telepon": "081234560103",
+        "jenis_pegawai": "penyuluh"
+    },
+    {
+        "nip": "198710202026101005",
+        "username": "user_3273072010870144",
+        "kepala_kua": false,
+        "no_telepon": "081234560104",
+        "jenis_pegawai": "penyuluh"
+    }
+]

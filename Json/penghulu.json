@@ -1,0 +1,52 @@
+[
+    {
+        "nip": "197112272026101008",
+        "pegawai": {
+            "username": "user_3273072712710179",
+            "kepala_kua": false,
+            "no_telepon": "081234560107",
+            "jenis_pegawai": "penghulu"
+        },
+        "no_sk_penghulu": "SK_Penghulu_008"
+    },
+    {
+        "nip": "198611212026101006",
+        "pegawai": {
+            "username": "user_3273072111860157",
+            "kepala_kua": false,
+            "no_telepon": "081234560105",
+            "jenis_pegawai": "penghulu"
+        },
+        "no_sk_penghulu": "SK_Penghulu_006"
+    },
+    {
+        "nip": "198509252026101007",
+        "pegawai": {
+            "username": "user_3273072509850090",
+            "kepala_kua": false,
+            "no_telepon": "081234560106",
+            "jenis_pegawai": "penghulu"
+        },
+        "no_sk_penghulu": "SK_Penghulu_007"
+    },
+    {
+        "nip": "197011302026101009",
+        "pegawai": {
+            "username": "user_3273073011700019",
+            "kepala_kua": false,
+            "no_telepon": "081234560108",
+            "jenis_pegawai": "penghulu"
+        },
+        "no_sk_penghulu": "SK_Penghulu_009"
+    },
+    {
+        "nip": "198102012026101001",
+        "pegawai": {
+            "username": "user_3273070102810020",
+            "kepala_kua": true,
+            "no_telepon": "081234560115",
+            "jenis_pegawai": "penghulu"
+        },
+        "no_sk_penghulu": "SK_Penghulu_001"
+    }
+]
