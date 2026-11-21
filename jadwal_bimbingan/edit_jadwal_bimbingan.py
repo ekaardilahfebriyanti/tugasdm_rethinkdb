@@ -2,7 +2,7 @@ import json
 from rethinkdb import RethinkDB
 
 r = RethinkDB()
-conn = r.connect(host="localhost", port=28015, db="kua_database")
+conn = r.connect(host="172.28.224.1", port=28015, db="kua_database")
 
 hasil = (
     r.db("kua_database")

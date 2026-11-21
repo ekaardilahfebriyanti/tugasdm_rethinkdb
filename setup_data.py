@@ -2,7 +2,7 @@ from rethinkdb import RethinkDB
 
 # 1. Inisialisasi dan koneksi ke server lokal
 r = RethinkDB()
-conn = r.connect(host='localhost', port=28015)
+conn = r.connect(host='172.28.224.1', port=28015)
 
 NAMA_DB = 'belajar_python_db'
 

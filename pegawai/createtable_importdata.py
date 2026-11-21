@@ -5,7 +5,7 @@ r = RethinkDB()
 
 # Koneksi ke database kua_database
 conn = r.connect(
-    host="localhost",
+    host="172.28.224.1",
     port=28015,
     db="kua_database"
 )

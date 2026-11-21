@@ -3,7 +3,7 @@ from rethinkdb import RethinkDB
 
 # 1. Koneksi langsung ke database 'belajar_python_db'
 r = RethinkDB()
-conn = r.connect(host='localhost', port=28015, db='belajar_python_db')
+conn = r.connect(host='172.28.224.1', port=28015, db='belajar_python_db')
 
 # 2. Menampilkan semua data dari tabel 'karyawan'
 print("=== ISI TABEL KARYAWAN ===")
