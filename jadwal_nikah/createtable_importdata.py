@@ -19,9 +19,15 @@ tables = r.table_list().run(conn)
 if "jadwal_nikah" not in tables:
     r.table_create("jadwal_nikah", primary_key="id_jadwal_nikah").run(conn)
 
-# Insert dokumen ke tabel jadwal_nikah
-result = r.table("jadwal_nikah").insert(data, conflict="replace").run(conn)
+# Cek id_jadwal_nikah saat insert: simpan jika belum ada, pertahankan data lama jika sudah ada
+result = r.table("jadwal_nikah").insert(
+    data,
+    conflict=lambda id, old_doc, new_doc: old_doc
+).run(conn)
+
 print("Insertion result:", result)
+print(f"Data baru berhasil di-insert : {result['inserted']}")
+print(f"Data sudah ada (dilewati)    : {result['unchanged']}")
 
 # Tampilkan total dokumen
 count = r.table("jadwal_nikah").count().run(conn)
